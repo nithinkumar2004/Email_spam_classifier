@@ -15,7 +15,7 @@ This project aims to build a robust email spam classification system using natur
 ```
 .
 ├── email_spam_classifier.ipynb  # Jupyter Notebook for the project
-├── data/                        # Dataset folder (training/testing emails)
+├── data/ mail_data                      # Dataset folder (training/testing emails)
 └── README.md                    # Project documentation
 ```
 
