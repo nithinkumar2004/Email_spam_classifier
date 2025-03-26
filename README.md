@@ -46,7 +46,7 @@ import pandas as pd
 ## 📦 Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/email-spam-classifier.git
+   git clone https://github.com/nithinkumar2004/Email_spam_classifier
    cd email-spam-classifier
    ```
 
